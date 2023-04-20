@@ -6,7 +6,7 @@ if(radioboton){
 
 	alert(radioboton.value)
 
+console.log("hola ");
 
-
-	
+/* logica para calcular el promedio*/
 }
