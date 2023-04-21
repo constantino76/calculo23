@@ -8,9 +8,5 @@ if(radioboton){
 
 console.log("hola ");
 
-<<<<<<< HEAD
-
-=======
 /* logica para calcular el promedio*/
->>>>>>> ramaindex.js
 }
