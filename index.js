@@ -2,11 +2,16 @@ function calcular(){
 var radioboton=document.querySelector('input[name="conbustible"]:checked')
 if(radioboton){
 
+var  tipocombustible=radioboton.value
+if(tipocombustible=="gasolina")
+
+	{
+	
+     
 
 
-	alert(radioboton.value)
 
-console.log("hola ");
-
+console.log("hola  has selecionado el combustible gasolina ");
+}
 /* logica para calcular el promedio*/
 }
